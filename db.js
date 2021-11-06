@@ -1,0 +1,2 @@
+var mongoose = require('mongoose');
+mongoose.connect('mongodb+srv://umair:zaynah03422778067@mycluster.tld24.mongodb.net/myFirstDatabase?retryWrites=true&w=majority', { useUnifiedTopology: true, useNewUrlParser: true })
